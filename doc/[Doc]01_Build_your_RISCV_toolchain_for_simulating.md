@@ -6,7 +6,7 @@ Host Machine Arch
 ------------------
 - `Mac M1 Pro` with AArch64 arch
 
-Build toolchain for RISCV
+Build toolchain for RISCV (Optioned)
 -------------------------
 ## Use `brew` tool
 

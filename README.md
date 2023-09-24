@@ -17,10 +17,10 @@ Supported Platform
 ------------------
 
 **RISC-V RV64**
-- [] QEMU virt
+- [ ] QEMU virt
 
 **Armv8-A AArch64**
-- [] QEMU virt
+- [ ] QEMU virt
 
 Installation
 --------------
