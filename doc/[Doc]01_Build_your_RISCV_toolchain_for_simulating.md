@@ -9,8 +9,12 @@ Host Machine Arch
 Build toolchain for RISCV (Optioned)
 -------------------------
 ## Use `brew` tool
-
-## Manually compilation (Recommonded)
+```shell
+brew tap riscv/riscv
+brew install riscv-tools
+riscv64-unknown-elf-gcc -v
+```
+## Manually compilation (Recommonded but not successed)
 Reference to `https://github.com/riscv-collab/riscv-gnu-toolchain`
 
 **Warning**: git clone takes around 6.65 GB of disk and download size
